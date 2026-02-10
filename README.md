@@ -8,3 +8,9 @@
 
 # 🌐 Socials:
 ## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-atas34/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusufatas2002@gmail.com) 
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yatcamuyucam&theme=moltack&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yatcamuyucam&theme=moltack&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yatcamuyucam&theme=moltack&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
