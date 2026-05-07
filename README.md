@@ -1,22 +1,22 @@
 # 💫 About Me:
 
 ## 🚀 I’m currently working on: 
-Developing end-to-end Data Science/AI solutions and architecting the full-stack infrastructure for [bluepery.com](https://bluepery.com).
+### Developing end-to-end Data Science/AI solutions and architecting the full-stack infrastructure for [bluepery.com](https://bluepery.com).
 
 ## 🤝 I’m looking to collaborate on: 
-Open-source **Generative AI** projects, specifically focusing on **Multi-Agent systems** and **LLM orchestration**.
+### Open-source **Generative AI** projects, specifically focusing on **Multi-Agent systems** and **LLM orchestration**.
 
 ## 🏗️ I’m looking for help with: 
-Advanced **MLOps** practices and scaling AI models in cloud-native environments (**AWS/GCP**).
+### Advanced **MLOps** practices and scaling AI models in cloud-native environments (**AWS/GCP**).
 
 ## 🌱 I’m currently learning: 
-Designing autonomous AI agents using **LangChain** and **CrewAI** as a *Google AI & Technology Academy Fellow*.
+### Designing autonomous AI agents using **LangChain** and **CrewAI** as a *Google AI & Technology Academy Fellow*.
 
 ## 💬 Ask me about: 
-Python, FastAPI, **RAG** (Retrieval-Augmented Generation) architectures, and data-driven customer segmentation.
+### Python, FastAPI, **RAG** (Retrieval-Augmented Generation) architectures, and data-driven customer segmentation.
 
 ## 🏎️ Fun fact: 
-I'm a tech-driven **Fenerbahçe** fan who enjoys analyzing **Formula 1** data while wearing my favorite G-Shock.
+### I'm a tech-driven **Fenerbahçe** fan who enjoys analyzing **Formula 1** data while wearing my favorite G-Shock.
 
 
 # 💻 Tech Stack:
