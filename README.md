@@ -10,7 +10,7 @@
 ### Advanced **MLOps** practices and scaling AI models in cloud-native environments (**AWS/GCP**).
 
 ## 🌱 I’m currently learning: 
-### Designing autonomous AI agents using **LangChain** and **CrewAI** as a *Google AI & Technology Academy Fellow*.
+### Mastering **React** to build dynamic frontend experiences while simultaneously deepening my expertise in high-performance **backend operations** and scalable system architecture.
 
 ## 💬 Ask me about: 
 ### Python, FastAPI, **RAG** (Retrieval-Augmented Generation) architectures, and data-driven customer segmentation.
